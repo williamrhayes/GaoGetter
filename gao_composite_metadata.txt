@@ -1,0 +1,10 @@
+fileID..........Case ID associated with the request for contract review
+dateDecided...Date the report was completed
+datePublished...Date the report was published on gao.gov
+filer...........Company (or companies) requesting the bid decision be reviewed
+decision........Decision made by the GAO as to whether the protest of unfairness is justified
+fuzzyDecision...Simple decision (denied or approved) found via fuzzymatching
+highlights......Highlights paragraph found at the top of the bid decision page
+shortDesc.......Surface-level description of the bid description 
+longDesc........HTML code of the bid decision page
+url.............Link to the bid decision page
